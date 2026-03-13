@@ -38,17 +38,6 @@ This project was a hands‑on way for me to explore how communication protocols 
 This design focuses on demonstrating essential UART behavior rather than supporting all advanced features like parity checks, FIFOs, or hardware flow control.
 
 ---
-
-##  Files & Structure:
-
-├── uart_top.v # Top module integrating UART TX/RX
-├── uart_sender.v # UART transmit module
-├── uart_rx.v # UART receive module
-├── baud_rate_genrator.v # Baud timing generator
-├── tb.v # Testbench for simulation
-├── README.md # This document
-
-
 ## High‑Level Working Overview
 
 1. **Baud Rate Generator:** Divides the main clock to generate a tick signal matching the desired baud rate (e.g., 9600 bps).  
