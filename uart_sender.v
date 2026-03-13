@@ -3,7 +3,6 @@
 // Company: 
 // Engineer: ASADULLAH SIDDIQUI
 // 
-// Create Date: 04/10/2024 10:02:32 AM
 // Design Name: UART TRANSMITTER LOGIC FOR SENDING THE DATA
 // Module Name: UART_SENDER
 // Project Name: UART PROTOCOL 
