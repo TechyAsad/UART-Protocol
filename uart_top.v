@@ -4,7 +4,6 @@
 // Company: 
 // Engineer: ASADULLAH SIDDIQUI
 // 
-// Create Date: 04/10/2024 10:02:32 AM
 // Design Name: CLOCK GENERATION LOGIC FOR GIVEN BAUD RATE
 // Module Name: baud_rate_genrator
 // Project Name: UART PROTOCOL 
