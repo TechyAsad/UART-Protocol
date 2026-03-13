@@ -2,7 +2,6 @@
 // Company: 
 // Engineer: ASADULLAH SIDDIQUI
 // 
-// Create Date: 04/10/2024 10:02:32 AM
 // Design Name: UART RECIEVING LOGIC FOR RECIEVING THE DATA
 // Module Name: UART_RECIEVER
 // Project Name: UART PROTOCOL 
