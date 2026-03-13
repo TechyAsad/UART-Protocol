@@ -3,8 +3,8 @@
 // Company: 
 // Engineer: ASADULLAH SIDDIQUI
 // 
-// Design Name: CLOCK GENERATION LOGIC FOR GIVEN BAUD RATE
-// Module Name: baud_rate_genrator
+// Design Name: TESTBENCH LOGIC FOR GIVEN DESIGN
+// Module Name: testbench
 // Project Name: UART PROTOCOL 
 // Target Devices: 
 // Tool Versions: 
