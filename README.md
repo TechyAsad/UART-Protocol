@@ -43,7 +43,7 @@ This design focuses on demonstrating essential UART behavior rather than support
 1. **Baud Rate Generator:** Divides the main clock to generate a tick signal matching the desired baud rate (e.g., 9600 bps).  
 2. **Transmitter (TX):** On a request to send data, it frames the byte with start and stop bits and shifts it out at the baud rate.  
 3. **Receiver (RX):** Detects the start bit, samples each incoming bit in the middle of a bit period, and reconstructs the byte.  
-4. **Testbench:** Stimulates TX, loops back TX to RX, and checks that sent and received bytes match (simulation). :contentReference[oaicite:3]{index=3}
+4. **Testbench:** Stimulates TX, loops back TX to RX, and checks that sent and received bytes match (simulation). 
 
 
 ## Learnings infered
